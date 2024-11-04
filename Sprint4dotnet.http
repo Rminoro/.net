@@ -1,0 +1,6 @@
+@Sprint4dotnet_HostAddress = http://localhost:5226
+
+GET {{Sprint4dotnet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
