@@ -30,6 +30,9 @@ Aplicamos princípios de Clean Code e SOLID, incluindo:
 - **Single Responsibility Principle**: Cada classe tem uma única responsabilidade.
 - **Dependency Injection**: Utilizamos injeção de dependência para promover a testabilidade e reduzir o acoplamento.
 
+## Explicação IA generativa
+ API utiliza ML.NET para fornecer recomendações de produtos com base nas avaliações dos usuários. Treina o modelo com dados de avaliações e, em seguida, solicitar recomendações ao fornecer seu CPF e o produto desejado. A recomendação é classificada como "Altamente Recomendado", "Recomendado" ou "Não Recomendado" com base na pontuação gerada pelo modelo.
+ 
 ## Endpoints da API
 
 ### ClientsController
