@@ -1,8 +1,8 @@
 # Integrantes
-98974 - Ana Júlia Almeida Silva Neves
-552410 - NICOLY OLIVEIRA SANTOS
-99988 - Rafael Minoro Itokazo
-551831 - Vitor da Silva Pereira
+- 98974 - Ana Júlia Almeida Silva Neves
+- 552410 - NICOLY OLIVEIRA SANTOS
+- 99988 - Rafael Minoro Itokazo
+- 551831 - Vitor da Silva Pereira
 
 
 
@@ -50,6 +50,3 @@ Aplicamos princípios de Clean Code e SOLID, incluindo:
 2. Restaure os pacotes com `dotnet restore`.
 3. Execute a aplicação com `dotnet run`.
 
-## Contribuições
-
-Sinta-se à vontade para contribuir com melhorias ou abrir issues.
