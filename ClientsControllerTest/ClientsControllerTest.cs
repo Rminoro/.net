@@ -15,7 +15,7 @@ namespace Sprint4dotnet.ClientsControllerTest
         public async Task Register_ShouldReturnOk_WhenClientIsValid()
         {
             // Arrange
-            var client = new Client { Name = "John Doe", Email = "john@example.com", Password = "securepassword" };
+            var client = new Client { Name = "Joao pedro", Email = "jaaao@gmail.com", Password = "senha" };
             var mockService = new Mock<IClientService>();
             mockService.Setup(s => s.RegisterUser(It.IsAny<string>(), It.IsAny<string>(), It.IsAny<string>()))
            .Returns(Task.CompletedTask);
