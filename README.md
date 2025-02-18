@@ -1,12 +1,3 @@
-# Integrantes
-- 98974 - Ana Júlia Almeida Silva Neves
-- 552410 - NICOLY OLIVEIRA SANTOS
-- 99988 - Rafael Minoro Itokazo
-- 551831 - Vitor da Silva Pereira
-
-
-
-
 # Sprint4dotnet API
 
 Esta é uma API desenvolvida em .NET que implementa funcionalidades de recomendação utilizando ML.NET e integra serviços externos para fornecer dados climáticos.
